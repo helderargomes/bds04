@@ -1,3 +1,4 @@
+/*
 package com.devsuperior.bds04.tests;
 
 import static org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.httpBasic;
@@ -44,3 +45,4 @@ public class TokenUtil {
 		return jsonParser.parseMap(resultString).get("access_token").toString();
 	}
 }
+*/
