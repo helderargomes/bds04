@@ -1,4 +1,4 @@
-/*
+
 package com.devsuperior.bds04.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -188,4 +188,3 @@ public class EventControllerIT {
 		result.andExpect(jsonPath("$.content").exists());
 	}	
 }
-*/

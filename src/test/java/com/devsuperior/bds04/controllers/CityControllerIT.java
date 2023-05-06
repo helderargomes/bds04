@@ -1,4 +1,4 @@
-/*
+
 package com.devsuperior.bds04.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -135,4 +135,4 @@ public class CityControllerIT {
 		result.andExpect(jsonPath("$[2].name").value("Brasília"));
 	}
 }
-*/
+
